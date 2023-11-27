@@ -1,0 +1,534 @@
+@import "../css/global.css";
+.footer-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-darkslateblue);
+}
+.social-media-icon {
+  position: absolute;
+  height: 7.77%;
+  width: 13.61%;
+  top: 92.23%;
+  right: 24.1%;
+  bottom: 0;
+  left: 62.29%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.we-are-always {
+  width: 37.71%;
+  top: 37.86%;
+  left: 62.29%;
+  line-height: 28px;
+  color: var(--grey);
+  opacity: 0.8;
+}
+.lets-talk,
+.we-are-always,
+.we-are-always1 {
+  position: absolute;
+  display: inline-block;
+}
+.we-are-always1 {
+  width: 37.71%;
+  top: 31.07%;
+  left: 0;
+  line-height: 28px;
+  font-weight: 500;
+  opacity: 0.8;
+}
+.lets-talk {
+  width: 31.47%;
+  top: 0;
+  left: 62.19%;
+  font-size: var(--heading-2-size);
+  line-height: 64px;
+  font-weight: 600;
+}
+.content {
+  position: absolute;
+  height: 42.13%;
+  width: 66.13%;
+  top: 19.63%;
+  right: 23.88%;
+  bottom: 38.24%;
+  left: 10%;
+}
+.contact-info-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--yellow);
+}
+.contactwebsitecom {
+  position: absolute;
+  top: 54.84%;
+  left: 0;
+  line-height: 28px;
+  opacity: 0.8;
+}
+.email-me-at {
+  position: absolute;
+  top: 1.61%;
+  left: 0;
+  font-size: var(--label-01-size);
+  line-height: 32px;
+  font-weight: 500;
+}
+.call-us,
+.div {
+  position: absolute;
+  left: 61.22%;
+}
+.div {
+  top: 53.23%;
+  line-height: 28px;
+  opacity: 0.8;
+}
+.call-us {
+  width: 19.24%;
+  top: 0;
+  font-size: var(--label-01-size);
+  line-height: 32px;
+  font-weight: 500;
+  display: inline-block;
+}
+.contact-info,
+.info {
+  position: absolute;
+  height: 65.26%;
+  width: 66.34%;
+  top: 17.89%;
+  right: 26.5%;
+  bottom: 16.84%;
+  left: 7.16%;
+}
+.contact-info {
+  height: 19.43%;
+  width: 32.31%;
+  top: 61.76%;
+  right: 57.69%;
+  bottom: 18.81%;
+  left: 10%;
+  color: var(--dark-blue);
+}
+.logo-icon {
+  position: absolute;
+  top: 104px;
+  left: 159px;
+  width: 160px;
+  height: 32.41px;
+  overflow: hidden;
+}
+.background,
+.footer {
+  position: absolute;
+  width: 1600px;
+}
+.footer {
+  top: 2240px;
+  left: 0;
+  height: 489px;
+  color: var(--white);
+}
+.background {
+  top: 0;
+  right: 0;
+  background-color: var(--grey);
+  height: 712px;
+}
+.card-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--white);
+  width: 296px;
+  height: 344px;
+}
+.httpswwwpexelscomphotom-icon {
+  position: absolute;
+  top: 48px;
+  left: 64px;
+  border-radius: 50%;
+  width: 168px;
+  height: 168px;
+  object-fit: cover;
+}
+.design-lead {
+  position: absolute;
+  top: 284px;
+  right: 86px;
+  line-height: 28px;
+  display: inline-block;
+  width: 126px;
+  height: 28px;
+  opacity: 0.7;
+}
+.paul-jones {
+  top: 246px;
+  right: 82px;
+  font-size: var(--heading-6-size);
+  line-height: 36px;
+  font-weight: 500;
+  text-align: left;
+}
+.card,
+.cto,
+.paul-jones {
+  position: absolute;
+}
+.card {
+  top: 0;
+  left: 656px;
+  width: 296px;
+  height: 344px;
+}
+.cto {
+  top: 282px;
+  right: 131px;
+  line-height: 28px;
+  opacity: 0.7;
+}
+.simon-adams {
+  position: absolute;
+  top: 246px;
+  right: 44px;
+  font-size: var(--heading-6-size);
+  line-height: 36px;
+  font-weight: 500;
+  text-align: center;
+  display: inline-block;
+  width: 208px;
+  height: 36px;
+}
+.card1 {
+  position: absolute;
+  top: 0;
+  left: 328px;
+  width: 296px;
+  height: 344px;
+  text-align: left;
+}
+.project-manager {
+  position: absolute;
+  top: 284px;
+  right: 75px;
+  line-height: 28px;
+  display: inline-block;
+  width: 148px;
+  height: 28px;
+  opacity: 0.7;
+}
+.sara-hardin {
+  position: absolute;
+  top: 246px;
+  right: 76px;
+  font-size: var(--heading-6-size);
+  line-height: 36px;
+  font-weight: 500;
+}
+.card2 {
+  top: 0;
+  left: 984px;
+  width: 296px;
+  height: 344px;
+}
+.card2,
+.card3,
+.ceo {
+  position: absolute;
+}
+.ceo {
+  top: 284px;
+  right: 131px;
+  line-height: 28px;
+  opacity: 0.7;
+}
+.card3 {
+  top: 0;
+  left: 0;
+  width: 296px;
+  height: 344px;
+}
+.card-hover-child {
+  position: absolute;
+  top: 48px;
+  left: 64px;
+  border-radius: 50%;
+  background: linear-gradient(-11.63deg, #5239fa, rgba(255, 255, 255, 0));
+  width: 168px;
+  height: 168px;
+}
+.socials-icon {
+  position: absolute;
+  top: 175px;
+  right: 115.5px;
+  width: 61.5px;
+  height: 13px;
+}
+.card-hover,
+.cards {
+  position: absolute;
+  height: 344px;
+}
+.card-hover {
+  top: 0;
+  left: 0;
+  width: 296px;
+  text-align: left;
+}
+.cards {
+  top: 240px;
+  left: 161px;
+  width: 1280px;
+}
+.meet-our-team {
+  position: absolute;
+  top: 128px;
+  right: 627px;
+  font-size: var(--heading-2-size);
+  line-height: 64px;
+  font-weight: 600;
+  color: var(--dark-blue);
+}
+.our-team {
+  position: absolute;
+  top: 1528px;
+  right: 0;
+  width: 1600px;
+  height: 712px;
+  text-align: center;
+  color: var(--b);
+}
+.who-we-are-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #f4f5f5;
+  width: 1280px;
+  height: 376px;
+}
+.goal-focussed,
+.lorem-ipsum-dolor {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+  width: 515px;
+}
+.goal-focussed {
+  top: 0;
+  line-height: 56px;
+  font-weight: 600;
+}
+.lorem-ipsum-dolor {
+  top: 72px;
+  font-size: var(--body-2-size);
+  line-height: 28px;
+  opacity: 0.7;
+}
+.continuous-improvement,
+.lorem-ipsum-dolor1 {
+  position: absolute;
+  left: 576px;
+  display: inline-block;
+  width: 515px;
+}
+.continuous-improvement {
+  top: 0;
+  line-height: 56px;
+  font-weight: 600;
+}
+.lorem-ipsum-dolor1 {
+  top: 72px;
+  font-size: var(--body-2-size);
+  line-height: 28px;
+  opacity: 0.7;
+}
+.who-we-are1 {
+  position: absolute;
+  top: 96px;
+  left: 80px;
+  width: 1091px;
+  height: 184px;
+}
+.httpswwwpexelscomphotom-icon2 {
+  position: absolute;
+  top: 376px;
+  left: 0;
+  width: 1280px;
+  height: 340px;
+  object-fit: cover;
+}
+.who-we-are {
+  position: absolute;
+  top: 684px;
+  left: 160px;
+  width: 1280px;
+  height: 716px;
+  font-size: var(--heading-3-size);
+}
+.httpswwwpexelscomphotog-icon {
+  position: absolute;
+  top: 0;
+  left: 642px;
+  width: 640px;
+  height: 337.05px;
+  object-fit: cover;
+}
+.about-us1,
+.our-designs-solve {
+  position: absolute;
+  top: 0;
+  right: 176px;
+  line-height: 32px;
+  font-weight: 500;
+  display: inline-block;
+  width: 419px;
+}
+.our-designs-solve {
+  top: 40px;
+  right: 0;
+  font-size: var(--heading-1-size);
+  line-height: 74px;
+  font-weight: 600;
+  width: 595px;
+}
+.lorem-ipsum-dolor2 {
+  position: absolute;
+  top: 219px;
+  left: 0;
+  font-size: var(--body-2-size);
+  line-height: 28px;
+  text-align: justify;
+  display: inline-block;
+  width: 484px;
+  opacity: 0.7;
+}
+.content1 {
+  position: absolute;
+  top: 24px;
+  right: 687px;
+  width: 595px;
+  height: 303px;
+}
+.about-us-hero {
+  position: absolute;
+  top: 220px;
+  left: 160px;
+  width: 1282px;
+  height: 337.05px;
+  font-size: var(--label-01-size);
+}
+.button-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-22xl);
+  border: 2px solid var(--color-ghostwhite-100);
+  box-sizing: border-box;
+}
+.contact-us {
+  position: absolute;
+  width: 48.11%;
+  top: 26.67%;
+  left: 25.95%;
+  line-height: 28px;
+  font-weight: 500;
+  display: inline-block;
+}
+.button {
+  position: absolute;
+  height: 65.22%;
+  width: 11.56%;
+  top: 17.39%;
+  right: 10%;
+  bottom: 17.39%;
+  left: 78.44%;
+  color: var(--white);
+}
+.about-us2,
+.blog,
+.home,
+.pricing,
+.work {
+  position: absolute;
+  height: 32.51%;
+  top: 34.78%;
+  line-height: 28px;
+  font-weight: 500;
+  display: inline-block;
+}
+.home {
+  width: 3%;
+  left: 50.13%;
+  color: var(--white);
+}
+.about-us2,
+.blog,
+.pricing,
+.work {
+  width: 4.5%;
+  left: 55.63%;
+}
+.blog,
+.pricing,
+.work {
+  width: 3.44%;
+  left: 62.63%;
+}
+.blog,
+.work {
+  height: 32.61%;
+  width: 2.63%;
+  left: 68.56%;
+}
+.blog {
+  height: 32.51%;
+  width: 2.25%;
+  left: 73.69%;
+}
+.logo-icon1 {
+  position: absolute;
+  height: 26.86%;
+  width: 7.63%;
+  top: 35.87%;
+  right: 82.38%;
+  bottom: 37.27%;
+  left: 10%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.navbar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1600px;
+  height: 92px;
+  color: var(--color-lightsteelblue);
+}
+.about-us {
+  position: relative;
+  background-color: var(--white);
+  width: 100%;
+  height: 2729px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--body-2-size);
+  color: var(--dark-blue);
+  font-family: var(--heading-1);
+}
